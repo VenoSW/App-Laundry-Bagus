@@ -1,0 +1,89 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\bin\Debug\LaundryBagus.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\bin\Debug\LaundryBagus.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\bin\Debug\LaundryBagus.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\obj\x86\Debug\LaundryBagus.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\obj\x86\Debug\LaundryBagus.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\obj\x86\Debug\LaundryBagus.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\obj\x86\Debug\LaundryBagus.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\obj\x86\Debug\LaundryBagus.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\LaundryBagus\obj\x86\Debug\LaundryBagus.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Cucian_Masuk.resources
+F:\DATA\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.exe
+F:\DATA\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.pdb
+F:\DATA\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.xml
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Cucian_Keluar.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Cucian_Masuk.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Form1.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Resources.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.vbproj.GenerateResource.Cache
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.exe
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.xml
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.pdb
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Daftar_Cucian.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Customer.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan_Cucian.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan.resources
+F:\DATA\LaundryBagus\LaundryBagus\bin\Debug\Report1.rdlc
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.vbprojResolveAssemblyReference.cache
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.RptCucian.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\RdlCompile.cache
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\RdlCompile.compiled
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan_Pemasukan.resources
+F:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.RptPemasukan.resources
+D:\DATA\LaundryBagus\LaundryBagus\bin\Debug\Report1.rdlc
+D:\DATA\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.exe
+D:\DATA\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.pdb
+D:\DATA\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.xml
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan_Pemasukan.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.RptCucian.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Cucian_Keluar.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Cucian_Masuk.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Customer.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Daftar_Cucian.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Form1.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan_Cucian.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Resources.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.vbproj.GenerateResource.Cache
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\RdlCompile.cache
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\RdlCompile.compiled
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.exe
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.xml
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.pdb
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.RptPemasukan.resources
+D:\DATA\LaundryBagus\LaundryBagus\bin\Debug\Report2.rdlc
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Home.resources
+D:\DATA\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.vbprojResolveAssemblyReference.cache
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.exe
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.xml
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.pdb
+D:\LaundryBagus\LaundryBagus\bin\Debug\Report2.rdlc
+D:\LaundryBagus\LaundryBagus\bin\Debug\Report1.rdlc
+D:\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.exe
+D:\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.pdb
+D:\LaundryBagus\LaundryBagus\bin\Debug\LaundryBagus.xml
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.vbprojResolveAssemblyReference.cache
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Home.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan_Pemasukan.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.RptCucian.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.RptPemasukan.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Cucian_Keluar.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Cucian_Masuk.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Customer.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Daftar_Cucian.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Form1.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan_Cucian.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Laporan.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.Resources.resources
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\LaundryBagus.vbproj.GenerateResource.Cache
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\RdlCompile.cache
+D:\LaundryBagus\LaundryBagus\obj\x86\Debug\RdlCompile.compiled

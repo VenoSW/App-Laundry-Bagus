@@ -1,0 +1,130 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LaundryBagus
+</name>
+</assembly>
+<members>
+<member name="T:LaundryBagus.DatasetCucian.tb_transaksiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LaundryBagus.DatasetCucian.tb_transaksiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LaundryBagus.DatasetCucian.tb_transaksiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LaundryBagus.DatasetCucian">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LaundryBagus.DatasetPemasukan.tb_totalpemasukanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LaundryBagus.DatasetPemasukan.tb_transaksiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LaundryBagus.DatasetPemasukan.tb_totalpemasukanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LaundryBagus.DatasetPemasukan.tb_transaksiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LaundryBagus.DatasetPemasukan.tb_totalpemasukanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LaundryBagus.DatasetPemasukan.tb_transaksiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LaundryBagus.DatasetPemasukan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:LaundryBagus.ModDatabase.GetDatabaseSetting">
+	<summary>
+ This Procedure is used when you hard code your connection setting.
+ </summary>
+</member><member name="M:LaundryBagus.ModDatabase.GetDataTable(System.String)">
+	<summary>
+ This is to get query result into DataTable
+ </summary>
+	<param name="SQL"></param>
+	<returns></returns>
+</member><member name="M:LaundryBagus.ModDatabase.GetFieldValue(System.String,System.String,System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="FieldName"></param>
+	<param name="TableName"></param>
+	<param name="WhereClause"></param>
+	<param name="DefaultValue"></param>
+	<returns></returns>
+</member><member name="P:LaundryBagus.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Cucian_Customer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Cucian_Daftar_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Cucian_Keluar_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Cucian_Laporan_2_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Cucian_Laporan_2_Icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Cucian_Laporan_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Cucian_Laporan_Icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Cucian_Masuk_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Laporan_Cucian_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Laporan_Pemasukan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaundryBagus.My.Resources.Resources.Laporan_Pemasukan1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LaundryBagus.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

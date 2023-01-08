@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{98653DE2-8883-4398-90A7-C94237F5E50E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LaundryBagus.My.MyApplication</StartupObject>
+    <RootNamespace>LaundryBagus</RootNamespace>
+    <AssemblyName>LaundryBagus</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LaundryBagus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LaundryBagus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo Laundry %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cucian Keluar.Designer.vb">
+      <DependentUpon>Cucian Keluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cucian Keluar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Cucian Masuk.Designer.vb">
+      <DependentUpon>Cucian Masuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cucian Masuk.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.vb">
+      <DependentUpon>Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Daftar Cucian.Designer.vb">
+      <DependentUpon>Daftar Cucian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Daftar Cucian.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DatasetCucian.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatasetCucian.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DatasetPemasukan.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatasetPemasukan.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DatasetPemasukan.vb">
+      <DependentUpon>DatasetPemasukan.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Laporan Cucian.Designer.vb">
+      <DependentUpon>Laporan Cucian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Laporan Cucian.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Laporan Pemasukan.Designer.vb">
+      <DependentUpon>Laporan Pemasukan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Laporan Pemasukan.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Laporan.Designer.vb">
+      <DependentUpon>Laporan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Laporan.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModDatabase.vb" />
+    <Compile Include="ModKoneksi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RptCucian.Designer.vb">
+      <DependentUpon>RptCucian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RptCucian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptPemasukan.Designer.vb">
+      <DependentUpon>RptPemasukan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RptPemasukan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan Pemasukan.resx">
+      <DependentUpon>Laporan Pemasukan.vb</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="Logo Laundry %281%29.ico" />
+    <Content Include="Report2.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="RptCucian.resx">
+      <DependentUpon>RptCucian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptPemasukan.resx">
+      <DependentUpon>RptPemasukan.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Cucian Keluar.resx">
+      <DependentUpon>Cucian Keluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cucian Masuk.resx">
+      <DependentUpon>Cucian Masuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daftar Cucian.resx">
+      <DependentUpon>Daftar Cucian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan Cucian.resx">
+      <DependentUpon>Laporan Cucian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan.resx">
+      <DependentUpon>Laporan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <Content Include="Report1.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DatasetCucian.xsc">
+      <DependentUpon>DatasetCucian.xsd</DependentUpon>
+    </None>
+    <None Include="DatasetCucian.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatasetCucian.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DatasetCucian.xss">
+      <DependentUpon>DatasetCucian.xsd</DependentUpon>
+    </None>
+    <None Include="DatasetPemasukan.xsc">
+      <DependentUpon>DatasetPemasukan.xsd</DependentUpon>
+    </None>
+    <None Include="DatasetPemasukan.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatasetPemasukan.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DatasetPemasukan.xss">
+      <DependentUpon>DatasetPemasukan.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cucian Customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cucian Daftar Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cucian Keluar Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cucian Masuk Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cucian Laporan Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cucian Laporan 2 Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cucian Laporan 2 Icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laporan Cucian .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laporan Pemasukan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laporan Pemasukan1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
