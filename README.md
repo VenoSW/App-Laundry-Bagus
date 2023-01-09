@@ -26,5 +26,8 @@
 ### Cetak Laporan Pemasukan
 ![image](https://user-images.githubusercontent.com/22215113/211344950-6e9dd927-a6e0-47f5-9d3b-cfada37a58f9.png)
 
+## Design Database
+![image](https://user-images.githubusercontent.com/22215113/211346606-259706cf-e06a-432a-9c45-578af22a5fc3.png)
+
 ## My Team
 ![Aplikasi Pembukuan Laundry](https://user-images.githubusercontent.com/22215113/211345509-25a0b262-0c71-4461-871d-c1b20dade104.png)
